@@ -1,5 +1,5 @@
 
-function tap() {
+function ta() {
 var sidea = document.getElementById('dataA').value;
 var sideb = document.getElementById('dataB').value;
 var sidec = document.getElementById('dataC').value;

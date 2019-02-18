@@ -1,0 +1,40 @@
+body {
+  background-color: #E7E0BF;
+}
+h1 {
+  font-style: italic;
+  text-decoration: underline;
+  font-family: monospace;
+}
+h2 {
+  font-family: helvetica;
+  font-size: 14pt;
+  font-weight: bold;
+  font-stretch: semi-condensed;
+}
+.intro {
+  font-style: normal;
+  font-family: serif;
+  text-decoration-color: blue;
+}
+.list {
+  font-style: italic;
+  font-weight: bold;
+  font-stretch: condensed;
+  font-family: fantasy;
+}
+.link {
+  color: teal:
+}
+.img1 {
+  width: 72px;
+  float: right;
+}
+.img2 {
+  width: 75px;
+  float: right;
+}
+.img3 {
+  width: 125px;
+  float: right;
+}

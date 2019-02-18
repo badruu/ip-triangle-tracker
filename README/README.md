@@ -1,24 +1,21 @@
 # TRIANGLE TRACKER
-# This is a README file for a Github repository on triangle tracker, Date : 18/02/2019
+## This is a README file for a Github repository on triangle tracker, Date : 18/02/2019
 
-By **BADRUDIN NOOR**
+### By **BADRUDIN NOOR**
 
- Description
+### Description
 The Triangle tracker is a webpage that has information on the types of triangles according to the measure of the length of their sides. Likewise, it is a helpful tool when you are about to construct a triangle and you are not sure which type it is or whether the triangle can be formed with the measurements you are about to use.
 
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs in the program yet.
+
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+HTML, JS, CSS.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Contact:
+* NAME : BADRUDIN
+* EMAIL : badrubadri92@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*
+
 Copyright (c) {year} **{List of contributors or company name}**
